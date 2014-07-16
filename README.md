@@ -1,4 +1,4 @@
-embark
+EMBARK
 ====
 A travel app that allows users to find adventure. 
 
